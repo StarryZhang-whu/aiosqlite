@@ -2,7 +2,7 @@
 # Licensed under the MIT license
 
 """
-Core implementation of aiosqlite proxies
+Core implementation of aiosqlite proxies wtf
 """
 
 import asyncio
